@@ -1,13 +1,13 @@
 
-##  BINF 6308 Assignment9
+BINF 6308 Assignment9
 
-Project name: Blast and TransDecoder 
+# Project name: Blast and TransDecoder 
 
 
 ## Description
 Assignment 9 demonstrates the usage of the BLAST database to examine 
 transcriptome assembly results and get homology indications such as
-identity, similarity Evalue, etc. On the other hand,the TransDecoder
+identity, similarity Evalue, etc. On the other hand, the TransDecoder
 is another approach to compare by protein prediction.
 
 
@@ -15,7 +15,7 @@ is another approach to compare by protein prediction.
 
 * Hi, this is the documentation for assignment 9 of the bio-computational
   method course.
-* That's start BLAST abd TransDecoder project from the beginning, step
+* That's start BLAST and TransDecoder project from the beginning, step
   by step, code by code.
 * The working environment is under the Command line prompt, such as a Mac
   terminal or Ubuntu (with Bash script), so please prepare it in advance.   
